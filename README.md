@@ -93,5 +93,4 @@ is financial or tax advice.
 GitHub Copilot was used iteratively to design and implement the domain model,
 decimal arithmetic, FIFO cost basis, estimated trading costs, Yahoo quote
 adapter, and dry-run command. The Copilot conversation is the source discussion
-for those design decisions; attach or export the conversation itself when
-submitting this exercise if the assignment requires the full chat transcript.
+for those design decisions (chat.txt).
